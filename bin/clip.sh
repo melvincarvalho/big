@@ -8,7 +8,7 @@ xclip -o | awk '{ print ; print "---" }' > $BIGDIR/index.md
 
 big-presentation-offline
 
-mv index-offile.html index.html
+mv index.offline.html index.html
 
 git add .
 
