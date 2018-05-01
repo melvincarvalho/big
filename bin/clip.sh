@@ -13,6 +13,13 @@ rm rubik-v4-latin-regular.woff2 rubik-v4-latin-regular.woff highlight.js highlig
 
 mv index.offline.html index.html
 
+if [[ "$1" == "nocommit" ]]
+then
+  echo "no commit"
+  exit
+fi
+
+
 git add .
 
 git commit -m "Update main presentation"
