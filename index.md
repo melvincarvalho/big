@@ -2,7 +2,7 @@ solid summary 1/5/2018
 ---
     reviewed and tested source pane
 ---
-    spoke to frank from nextcloud
+    spoke to Frank Karlitschek from nextcloud
 ---
     worked on push and popstate -- PRs ready
 ---
