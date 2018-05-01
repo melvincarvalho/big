@@ -6,6 +6,10 @@ cd $BIGDIR
 
 xclip -o | awk '{ print ; print "---" }' > $BIGDIR/index.md
 
+big-presentation-compose
+
+rm rubik-v4-latin-regular.woff2 rubik-v4-latin-regular.woff highlight.js highlight.css big.js big.css
+
 big-presentation-offline
 
 mv index.offline.html index.html
