@@ -1,18 +1,18 @@
-solid summary 1/5/2018
+Solid summary 1/5/2018
 ---
-    reviewed and tested source pane
+    Reviewed and tested source pane
 ---
-    spoke to Frank Karlitschek from nextcloud
+    Spoke to Frank Karlitschek from nextcloud
 ---
-    worked on push and popstate -- PRs ready
+    Worked on push and popstate -- PRs ready
 ---
-    spoke to new dev akshay
+    Spoke to new dev akshay
 ---
-    possibly we should bump rdflib version
+    Possibly we should bump rdflib version
 ---
-    updated databox.me and gold to new mashlib
+    Updated databox.me and gold to new mashlib
 ---
-    reviewed code of conduct
+    Reviewed code of conduct
 ---
-    created a list of pods in turtle
+    Created a list of pods in turtle
 ---
