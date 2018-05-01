@@ -14,3 +14,5 @@ solid summary 1/5/2018
 ---
     reviewed code of conduct
 ---
+    created a list of pods in turtle
+---
