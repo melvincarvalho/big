@@ -6,7 +6,9 @@ cd $BIGDIR
 
 xclip -o | awk '{ print ; print "---" }' > $BIGDIR/index.md
 
-big-presentation-compose
+big-presentation-offline
+
+mv index-offile.html index.html
 
 git add .
 
