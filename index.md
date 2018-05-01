@@ -1,18 +1,10 @@
-Solid Summary 1/5/2018
+Solid Summary 2/5/2018
 ---
-    Reviewed and tested source pane
+    Looking at 401s
 ---
-    Spoke to Frank Karlitschek from nextcloud
----
-    Worked on push and popstate -- PRs ready
----
-    Spoke to new dev akshay
+    Published history changes in solid-panes and mashlib
 ---
     Possibly we should bump rdflib version
 ---
-    Updated databox.me and gold to new mashlib
----
-    Reviewed code of conduct
----
-    Created a list of pods in turtle
+    octolink is a useful extension that allow link following in github source
 ---
