@@ -1,4 +1,4 @@
-Solid summary 1/5/2018
+Solid Summary 1/5/2018
 ---
     Reviewed and tested source pane
 ---
