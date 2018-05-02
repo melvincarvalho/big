@@ -4,7 +4,7 @@ BIGDIR="/home/melvin/mel/big"
 
 cd $BIGDIR
 
-xclip -o | awk '{ print ; print "---" }' > $BIGDIR/index.md
+xclip -o | awk ' /^    [^ ]/ { print "---" } ; { print } '
 
 big-presentation-compose
 big-presentation-offline
