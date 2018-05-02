@@ -1,8 +1,0 @@
-	# gawk profile, created Wed May  2 03:41:49 2018
-
-	# Rule(s)
-
-     1  /\t/ {
-		print $0
-	}
-
