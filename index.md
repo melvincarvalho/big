@@ -6,10 +6,12 @@ Solid Summary 2/5/2018
 -        Bumped and published solid-panes and mashlib
 ---
     Following auth discussions on gitter
--        Looking at 401s
+-        Looking at HTTP 401 authentication issues
 ---
     Possibly we should bump rdflib version
 ---
     Looking at Nina Chaubul fix for #639, error message, in node-solid-server
 -        Issue was tagged "help wanted"
 -        ![](https://melvin.solid.live/public/images/labels.png)
+---
+    Build failing with node 10
