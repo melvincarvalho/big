@@ -12,3 +12,5 @@ Solid Summary 2/5/2018
 ---
     Looking at Nina Chaubul fix for #639, error message, in node-solid-serve
 ---
+        Issue was tagged "help wanted"
+---
