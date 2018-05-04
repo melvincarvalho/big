@@ -5,8 +5,8 @@ Solid Summary 4/5/2018
     New developer in prague using solid
 -        Jakub Klimek PhD, 
 -        Assistant professor Charles University
--        http://www.ksi.mff.cuni.cz/~klimek
--        Trying out solid issue #136 raised
+-        https://jakubklimek.com/
+-        Trying out solid issue #136 & #137 raised
 ---
     PR for node-webid, to prevent server crash, merged to develop
 ---
