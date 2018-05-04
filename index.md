@@ -1,18 +1,16 @@
 Solid Summary 4/5/2018
 ---
-    PR for node-webid upgraded and merged to develop
+    Added Ruben's keys to solid.community
 ---
-    Added Rubens keys to solid.community
+    New developer in prague using solid
+-        Jakub Klimek PhD, 
+-        Assistant professor Charles University
+-        http://www.ksi.mff.cuni.cz/~klimek
+-        Trying out solid issue #136 raised
 ---
-    Reviewed ResourceMapper and LegacyResourceMapper
--        <https://github.com/solid/node-solid-server/pull/660/files>
+    PR for node-webid, to prevent server crash, merged to develop
 ---
     Nina worked out engines in package.json is advisory
 -        engines_scrict is enforced e.g. for node 8
----
-    Discovered nice extension called octolinker
--        https://github.com/OctoLinker/OctoLinker
--        Enables link following in github source
--        Many octo type extensions exist
 ---
     Chatted to Sebastian Trueg
