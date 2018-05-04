@@ -1,18 +1,6 @@
-Solid Summary 3/5/2018
+Solid Summary 4/5/2018
 ---
-    History API changes published
--        Changes address bar when links are clicked
--        Changes address bar when back button clicked
--        Bumped and published solid-panes and mashlib
+    Added Rubens keys to solid.community
 ---
-    Following auth discussions on gitter
--        Looking at HTTP 401 authentication issues
----
-    Possibly we should bump rdflib version
----
-    Looking at Nina Chaubul fix for #639, error message, in node-solid-server
--        Bumped node-solid-server version
--        Issue was tagged "help wanted", as per github suggestion
--        ![](https://melvin.solid.live/public/images/labels.png)
----
-    Build fixed with node 10
+    Nina worked out engines in package.json is advisory
+-        engines_scrict is enforced e.g. for node 8
