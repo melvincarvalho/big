@@ -1,4 +1,4 @@
-Solid Summary 4/5/2018
+Solid Summary 7/5/2018
 ---
     Added Ruben's keys to solid.community
 -        Fixed certificates
