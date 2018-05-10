@@ -1,20 +1,18 @@
-Solid Summary 7/5/2018
+Solid Summary 10/5/2018
 ---
-    Added Ruben's keys to solid.community
--        Fixed certificates
+    Back button doesnt work in Rubens yo app
+-        Issue raised
+-        https://github.com/linkeddata/mashlib/issues/14
 ---
-    New developer in prague using solid
--        Jakub Klimek PhD, 
--        Assistant professor Charles University
--        https://jakubklimek.com/
--        Trying out solid issue #136 & #137 raised
+    Authentication tag added
+-        https://github.com/solid/node-solid-server/labels/authentication
 ---
-    PR for node-webid, to prevent server crash, merged to develop
+    Caught up on gitter
 ---
-    4.0.8 of node-solid-server released
+    Labelled authentication issues
 ---
-    Nina worked out engines in package.json is advisory
--        engines_scrict is enforced e.g. for node 8
--        suggests adding badge to readme
+    Issue #138 closed
+-        <https://github.com/solid/solid/issues/138>
 ---
-    Chatted to Sebastian Trueg
+    Issue logging in to solid-ui with oidcIssuer set
+-        <https://github.com/solid/solid-ui/issues/32>
