@@ -3,6 +3,9 @@ Solid Summary 15/5/2018
     New Issue raised for TLS / OIDC auth config options
 -        <https://github.com/solid/node-solid-server/issues/672>
 ---
+    Looking at the new chat
+-        <https://melvin.solid.live/public/RWWCrew/longchat/>
+---
     Bumped rdflib and published to npm
 -        version 0.16.9
 -        https://www.npmjs.com/package/rdflib
