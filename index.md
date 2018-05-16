@@ -1,4 +1,4 @@
-Solid Summary 15/5/2018
+Solid Summary 16/5/2018
 ---
     New Issue raised for TLS / OIDC auth config options
 -        <https://github.com/solid/node-solid-server/issues/672>
