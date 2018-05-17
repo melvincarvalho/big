@@ -12,3 +12,9 @@ Solid Summary 17/5/2018
     Tried installilng node-solid-server on Ubuntu 18.04
 -        got wildcard cert
 -        sett up reverse proxy
+---
+    Keeping personal minutes for daily calls
+-        Just a personal record
+-        Consider moving to solid.mit.edu
+-        Need to get WebIDs and set up ACL
+-        https://melvin.solid.live/solid/dailycalls/
