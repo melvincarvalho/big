@@ -19,9 +19,7 @@ Solid Summary 28/5/2018
     Tried installilng node-solid-server on Ubuntu 18.04
 -        all works
 ---
-    Keeping personal minutes for daily calls
----
     Some apps are not working
 -        Bookmark List
 -        Profile Editor
--        https://github.com/solid/node-solid-server/issues/683
+-        raised https://github.com/solid/node-solid-server/issues/683
