@@ -1,4 +1,4 @@
-Solid Summary 28/5/2018
+Solid Summary 29/5/2018
 ---
     bumped libraries
 -        solid-ui
