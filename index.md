@@ -1,4 +1,4 @@
-Solid Summary 29/5/2018
+Solid Summary 30/5/2018
 ---
     bumped libraries
 -        solid-ui
@@ -23,3 +23,8 @@ Solid Summary 29/5/2018
 -        Bookmark List
 -        Profile Editor
 -        raised https://github.com/solid/node-solid-server/issues/683
+---
+    Added user guide
+-        <https://github.com/solid/userguide>
+-        Added link to template
+-        Removed profile editor and bookmarks
