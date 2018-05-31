@@ -1,11 +1,11 @@
-Solid Summary 30/5/2018
+Solid Summary 31/5/2018
 ---
     bumped libraries
 -        solid-ui
 -        solid-panes
 -        mashlib
 ---
-    released node solid server 4.0.10
+    released node solid server 4.0.13
 ---
     longchat working
 -        drag and drop pictures works
@@ -15,6 +15,7 @@ Solid Summary 30/5/2018
     Looking at tim's PR to query quads
 -        Allow query() functionality to test for the quad not just the triple.
 -        <https://github.com/linkeddata/rdflib.js/pull/230>
+-        Now released
 ---
     Tried installilng node-solid-server on Ubuntu 18.04
 -        all works
