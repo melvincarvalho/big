@@ -1,4 +1,4 @@
-Solid Summary 31/5/2018
+Solid Summary 1/6/2018
 ---
     bumped libraries
 -        solid-ui
@@ -11,8 +11,9 @@ Solid Summary 31/5/2018
 -        drag and drop pictures works
 -        preferences menu works
 -        removing checkboxes fail
+-        tho broken again now
 ---
-    Looking at tim's PR to query quads
+    Merged query PR
 -        Allow query() functionality to test for the quad not just the triple.
 -        <https://github.com/linkeddata/rdflib.js/pull/230>
 -        Now released
