@@ -1,32 +1,18 @@
-Solid Summary 1/6/2018
+Solid Summary 5/6/2018
 ---
-    bumped libraries
--        solid-ui
--        solid-panes
--        mashlib
+    Started working on solidpay docs
+-        uses gitbook with CNAME
+-        general concepts explained
+-        https://docs.solidpay.org/general-concepts
 ---
-    released node solid server 4.0.13
+    People on github asking how they can help
+-        Kelly Prankin seems to be the most helpful
+-        Looking for issues to get started
+-        Github has a 'help wanted' label
 ---
-    longchat working
--        drag and drop pictures works
--        preferences menu works
--        removing checkboxes fail
--        tho broken again now
----
-    Merged query PR
--        Allow query() functionality to test for the quad not just the triple.
--        <https://github.com/linkeddata/rdflib.js/pull/230>
--        Now released
----
-    Tried installilng node-solid-server on Ubuntu 18.04
--        all works
----
-    Some apps are not working
--        Bookmark List
--        Profile Editor
--        raised https://github.com/solid/node-solid-server/issues/683
----
-    Added user guide
--        <https://github.com/solid/userguide>
--        Added link to template
--        Removed profile editor and bookmarks
+    Spoke to Kinsley about delegated auth
+-        Idea is to use to for 4.1
+-        he's done from his POV
+-        https://github.com/solid/node-solid-server/pull/701
+-        been on hold 21 days
+-        he's said he will ping segey and carl to close communication loops
