@@ -5,12 +5,12 @@ Solid Summary 5/6/2018
 -        general concepts explained
 -        https://docs.solidpay.org/general-concepts
 ---
-    People on github asking how they can help
+    People on gitter asking how they can help
 -        Kelly Prankin seems to be the most helpful
 -        Looking for issues to get started
 -        Github has a 'help wanted' label
 ---
-    Spoke to Kinsley about delegated auth
+    Spoke to Kingsley about delegated auth
 -        Idea is to use to for 4.1
 -        he's done from his POV
 -        https://github.com/solid/node-solid-server/pull/701
