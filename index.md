@@ -12,5 +12,8 @@ Solid Summary 6/8/2018
 ---
     Work on Solid Pay
 -        Writing up deposit use case
+-        https://docs.solidpay.org/user-story-make-a-deposit
 ---
-    Spoke to Martti about identi.fi
+    Spoke to Martti Malmi about identi.fi
+-        Web of trust and reputation
+-        Possible collaboration
