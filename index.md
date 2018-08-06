@@ -1,18 +1,16 @@
-Solid Summary 5/6/2018
+Solid Summary 6/8/2018
 ---
-    Started working on solidpay docs
--        uses gitbook with CNAME
--        general concepts explained
--        https://docs.solidpay.org/general-concepts
+    Helping people on gitter
+-        New php developer peter279k
+-        https://github.com/peter279k
+-        Interested in working on ldphp
+-        Needs review
 ---
-    People on gitter asking how they can help
--        Kelly Prankin seems to be the most helpful
--        Looking for issues to get started
--        Github has a 'help wanted' label
+    Looked at profile tutorial app
+-        Added issue
+-        Would be good to know how to generate popup
 ---
-    Spoke to Kingsley about delegated auth
--        Idea is to use to for 4.1
--        he's done from his POV
--        https://github.com/solid/node-solid-server/pull/701
--        been on hold 21 days
--        he's said he will ping segey and carl to close communication loops
+    Work on Solid Pay
+-        Writing up deposit use case
+---
+    Spoke to Martti about identi.fi
