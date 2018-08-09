@@ -1,7 +1,7 @@
 Solid Summary 9/8/2018
 ---
     Following updates on gitter and github
--        helping a coupld of new comers
+-        helping a couple of new comers
 -        Marcin H. Fernandez
 -        Alessandro D. Gagliardi
 ---
