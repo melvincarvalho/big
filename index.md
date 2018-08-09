@@ -1,11 +1,14 @@
-Solid Summary 7/8/2018
+Solid Summary 9/8/2018
 ---
     Following updates on gitter and github
--        chatted to danbri about web components
+-        helping a coupld of new comers
+-        Marcin H. Fernandez
+-        Alessandro D. Gagliardi
 ---
-    reviewing access control background
--        https://github.com/solid/web-access-control-spec/blob/master/Background.md
+    Discussed globbing on github
+-        Ruben has fixed
+-        https://github.com/solid/node-solid-server/pull/742
 ---
     Work on Solid Pay
--        Writing up payment use case
--        https://docs.solidpay.org/user-story-make-a-payment
+-        Started user story : make a withdrawal
+-        https://docs.solidpay.org/user-story-make-a-withdrawal
