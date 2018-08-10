@@ -12,7 +12,7 @@ Solid Summary 10/8/2018
 -        Have one login for client and serve
 -        https://github.com/solid/node-solid-server/issues/736
 -        Learning a bit more about how auth works
--        Seems that login is needed to both for now as, dmitri suggests
+-        Looking at proposals from Ruben and Dmitri
 ---
     Work on Solid Pay
 -        Started user story : paywall
